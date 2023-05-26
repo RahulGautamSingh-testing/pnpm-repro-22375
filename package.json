@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "vue": "^2.7.12"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "vitepress": "1.0.0-beta.1"
